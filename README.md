@@ -26,8 +26,8 @@
 
 ### 📊 Stats
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=UrAvgProgrammer&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uravgprogrammer&theme=dark&hide_border=true">
+    <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api?username=UrAvgProgrammer&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true">
+    <img align="center" width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=uravgprogrammer&theme=dark&hide_border=true">
 </div>
 
 #
