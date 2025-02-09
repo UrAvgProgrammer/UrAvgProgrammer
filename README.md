@@ -1,5 +1,7 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&width=700&lines=Typing...;Hey%2C+it's+me+Jerald+your+average+programmer!)](https://git.io/typing-svg)
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=UrAvgProgrammer.UrAvgProgrammer" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&duration=4000&width=800&height=70&lines=Typing...;Hey!+it's+me+Jerald,+your+average+programmer!" />
+</h1>
 
 ### ⚙️ Languages and Tools
 
@@ -30,7 +32,9 @@
 #
 
 ### 🥇Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=uravgprogrammer&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div align=center>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uravgprogrammer&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</div>
 
 #
 
