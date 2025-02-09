@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=UrAvgProgrammer.UrAvgProgrammer" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&duration=4000&width=800&height=70&lines=Typing...;Hey!+it's+me+Jerald,+your+average+programmer!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&center=true&size=30&duration=4000&width=800&height=70&lines=HEY+THERE!👋;+IT'S+ME+JERALD,+YOUR+AVERAGE+PROGRAMMER!" />
 </h1>
 
 ### ⚙️ Languages and Tools
@@ -25,14 +25,15 @@
 #
 
 ### 📊 Stats
-
-![UrAvgProgrammer's GitHub stats](https://github-readme-stats.vercel.app/api?username=UrAvgProgrammer&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=uravgprogrammer&theme=dark&hide_border=true)
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=UrAvgProgrammer&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uravgprogrammer&theme=dark&hide_border=true">
+</div>
 
 #
 
 ### 🥇Most Used Languages
-<div align=center>
+<div align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uravgprogrammer&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
