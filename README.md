@@ -1,4 +1,6 @@
-# Hey, it's me Jerald your average programmer! 🚀
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&width=700&lines=Typing...;Hey%2C+it's+me+Jerald+your+average+programmer!)](https://git.io/typing-svg)
+
+
 ### ⚙️ Languages and Tools
 
 <img align="left" alt="Python" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
