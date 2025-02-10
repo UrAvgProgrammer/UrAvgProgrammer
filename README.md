@@ -21,7 +21,6 @@
     <img align="center" alt="Matlab" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
     <img align="center" alt="Docker" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
 </div>
-    <br />
 
 #
 
