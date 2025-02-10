@@ -4,23 +4,24 @@
 </h1>
 
 ### ⚙️ Languages and Tools
-
-<img align="left" alt="Python" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="PostgreSQL" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Django" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-<img align="left" alt="AWS" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
-<img align="left" alt="GCS" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
-<img align="left" alt="Bootstrap" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="HTML" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="GitHub" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Git" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Bash" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Linux" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Matlab" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
-<img align="left" alt="Docker" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-<br />
+<div align="center">
+    <img align="center" alt="Python" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img align="center" alt="PostgreSQL" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+    <img align="center" alt="Django" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+    <img align="center" alt="AWS" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
+    <img align="center" alt="GCS" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
+    <img align="center" alt="Bootstrap" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+    <img align="center" alt="HTML" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+    <img align="center" alt="CSS" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+    <img align="center" alt="JavaScript" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <img align="center" alt="GitHub" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img align="center" alt="Git" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img align="center" alt="Bash" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+    <img align="center" alt="Linux" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img align="center" alt="Matlab" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
+    <img align="center" alt="Docker" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+</div>
+    <br />
 
 #
 
@@ -37,9 +38,9 @@
 
 ### 🥇Most Used Languages
 <div align="center">
-    <img align="center" width="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UrAvgProgrammer&theme=dark&hide_border=true" />
-    <img align="center" width="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UrAvgProgrammer&theme=dark&hide_border=true" />
-    <img align="center" width="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uravgprogrammer&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+    <img align="center" width="250px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UrAvgProgrammer&theme=dark&hide_border=true" />
+    <img align="center" width="250px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UrAvgProgrammer&theme=dark&hide_border=true" />
+    <img align="center" width="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uravgprogrammer&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 #
