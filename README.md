@@ -60,6 +60,8 @@ In 2022, I got a life-changing message asking if I was interested in a back-end 
 Now, besides my back-end engineering work, I occasionally do R&D on GIS-related problems, manage projects, and handle deployments.
 </details>
 
-## 🌐 Socials:
+#
+
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ur-avg-programmer) 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UrAvgProgrammer/) 
