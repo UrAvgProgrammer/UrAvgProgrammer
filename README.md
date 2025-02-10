@@ -50,14 +50,16 @@
 #
 
 <details>
- <summary><h3>👩🏻‍💻 My Coding Journey</h3></summary>
- I got inspired by my late professor during my Programming 101 course. I started coding on my own before asking for help or researching during our class's coding sessions. Eventually, I joined my university’s programming guild, where I really honed my skills.
+<summary><h3>👩🏻‍💻 My Coding Journey</h3></summary>
+
+I got inspired by my late professor during my Programming 101 course. I started coding on my own before asking for help or researching during our class's coding sessions. Eventually, I joined my university’s programming guild, where I really honed my skills.
 
 I learned Python and, by my third year, landed an AI/ML job, which introduced me to automation and web scraping. I got really into automation and started looking for more roles in that space while working on my ML thesis. After earning my Computer Science degree, I got hired as an SQL engineer. Then COVID hit, and everything shifted to a WFH setup. That’s when I went back to Python-related jobs and learned Django.
 
 In 2022, I got a life-changing message asking if I was interested in a back-end engineer role. I said yes—and it turned out to be the best decision of my life. I met incredible people who were just as passionate about programming as I was and got introduced to the GIS world, which took my skills to the next level.
 
 Now, besides my back-end engineering work, I occasionally do R&D on GIS-related problems, manage projects, and handle deployments.
+ 
 </details>
 
 #
